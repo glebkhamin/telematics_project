@@ -1,2 +1,3 @@
 # telematics_project
-Telematics project during intership at Reksoft 
+
+Python-based Telematics projects during internship at Reksoft
